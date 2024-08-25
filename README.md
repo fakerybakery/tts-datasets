@@ -11,4 +11,4 @@ PRs welcomed!
 | GigaSpeech | [HF](https://huggingface.co/datasets/speechcolab/gigaspeech) | General | Y | Unknown | High | Contains copyrighted content |
 | AMI | [HF](https://huggingface.co/datasets/edinburghcstr/ami) | Conversational | N | CC-BY | Moderate |  |
 | VoxPopuli | [HF](https://huggingface.co/datasets/facebook/voxpopuli) | Conversational | Y | Public Domain | High | European parlement recordings |
-
+| EdAcc | [HF](https://huggingface.co/datasets/edinburghcstr/edacc) | Short | N | CC-BY-SA | High | Accented English speech |
